@@ -20,6 +20,7 @@ module.exports = {
   plugins: ['vue'],
   // add your custom rules here
   rules: {
+    'semi': ['error', 'always'],
     // allow async-await
     'generator-star-spacing': 'off',
     // allow debugger during development

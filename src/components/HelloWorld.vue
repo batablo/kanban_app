@@ -27,7 +27,9 @@
       <li>
         <a
           href="http://vuejs-templates.github.io/webpack/"
-          target="_blank">Docs for This Template</a>
+          target="_blank"
+        >Docs for This Template</a
+        >
       </li>
     </ul>
     <h2>Ecosystem</h2>
@@ -50,7 +52,9 @@
       <li>
         <a
           href="https://github.com/vuejs/awesome-vue"
-          target="_blank">awesome-vue</a>
+          target="_blank"
+        >awesome-vue</a
+        >
       </li>
     </ul>
   </div>
@@ -62,9 +66,9 @@ export default {
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
-    }
+    };
   }
-}
+};
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
