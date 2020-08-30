@@ -1,6 +1,6 @@
-import KbnBoardView from '@/component/templates/KbnBoardView';
-import KbnLoginView from '@/component/templates/KbnLoginView';
-import KbnTaskDetailModal from '@/component/templates/KbnTaskDetailModal';
+import KbnBoardView from '@/components/templates/KbnBoardView';
+import KbnLoginView from '@/components/templates/KbnLoginView';
+import KbnTaskDetailModal from '@/components/templates/KbnTaskDetailModal';
 
 export default [
   // ボードページ(ルート)

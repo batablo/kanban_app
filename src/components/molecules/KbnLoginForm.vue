@@ -150,7 +150,7 @@ label {
 
 input {
   width: 100%;
-  padding: 5em;
+  padding: 0.5em;
   font: inherit;
 }
 
