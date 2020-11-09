@@ -4,8 +4,7 @@ import * as types from './mutation-types';
 export default {
   // ログイン
   [types.AUTH_LOGIN] (state, payload) {
-    // TODO:
-    throw new Error('AUTH_LOGIN mutation should be implemented');
+    state.auth = payload;
   },
 
   // タスク一覧取得
